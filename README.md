@@ -1,6 +1,3 @@
-Certainly! Here's a revised and professional version of the `README.md` that includes detailed mention of the **Attack Phase** (`"initial"`, `"escalation"`, `"exfiltration"`) and integrates it meaningfully into the flow of the document:
-
----
 
 # Cyber Attack Simulator
 
